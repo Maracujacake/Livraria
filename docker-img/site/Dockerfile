@@ -6,10 +6,13 @@ ADD catalina.sh /usr/local/tomcat/bin/
 ADD .keystore /usr/local/tomcat/conf/
 ADD server.xml /usr/local/tomcat/conf/
 ADD context.xml /usr/local/tomcat/conf/
-#caminho para o arquivo .war
-ADD /home/chris/AreaDeTrabalho/Webinho/Livraria/target/Livraria.war /usr/local/tomcat/webapps/
+ADD sample.war /usr/local/tomcat/webapps/
+
+# Caminho para o arquivo .war
+ADD Livraria.war /usr/local/tomcat/webapps/
 
 EXPOSE 8080
+EXPOSE 8443
 
 RUN chmod a+x /usr/local/tomcat/bin/catalina.sh
 

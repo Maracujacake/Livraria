@@ -1,13 +1,14 @@
 # Use a imagem base do MySQL
 FROM mysql:5.6
 
-# credenciais bd
+# Credenciais do banco de dados
+ENV MYSQL_ROOT_PASSWORD t1
 ENV MYSQL_DATABASE Livraria
-ENV MYSQL_USER chris
-ENV MYSQL_PASSWORD 1234
+ENV MYSQL_USER devops-t1
+ENV MYSQL_PASSWORD=db
 
-#copia o arquivo do banco para o docker
-COPY /home/chris/AreaDeTrabalho/Webinho/Livraria/db/MySQL/create.sql /docker-entrypoint-initdb.d/
+# Copia o arquivo do banco para o docker
+COPY create.sql /docker-entrypoint-initdb.d
 
-# porta padrão de comunicação do sql
+# Porta padrão de comunicação do sql
 EXPOSE 3306
