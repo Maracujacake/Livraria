@@ -5,8 +5,12 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Livraria Virtual</title>
+        <link rel="stylesheet" type="text/css" href="estilos/index.css"/>
     </head>
     <body>
-        <a href="livros">CRUD Livros</a>
+        <div class="inicial">
+            <a href="livros">CRUD Livros</a>
+            <a href="editoras">CRUD Editoras</a>
+        </div>
     </body>
 </html>
