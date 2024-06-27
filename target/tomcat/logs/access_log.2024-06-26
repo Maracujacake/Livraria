@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [26/Jun/2024:21:06:37 -0300] "GET /Livraria/ HTTP/1.1" 200 407 http-bio-8080-exec-1 1674
+0:0:0:0:0:0:0:1 - - [26/Jun/2024:21:06:37 -0300] "GET /Livraria/estilos/index.css HTTP/1.1" 200 522 http-bio-8080-exec-2 3
+0:0:0:0:0:0:0:1 - - [26/Jun/2024:21:06:37 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [26/Jun/2024:21:06:42 -0300] "GET /Livraria/livros HTTP/1.1" 200 2636 http-bio-8080-exec-4 2325
