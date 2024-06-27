@@ -111,16 +111,4 @@
 			</plugins>
 	</pluginManagement>
 	</build>
-	 <profiles>
-        <profile>
-            <id>TomcatServer</id>
-            <activation>
-                <activeByDefault>true</activeByDefault>
-            </activation>
-            <properties>
-                <tomcat.username>admin</tomcat.username>
-                <tomcat.password>admin</tomcat.password>
-            </properties>
-        </profile>
-    </profiles>
 </project>
