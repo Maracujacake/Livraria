@@ -151,3 +151,269 @@
 [1719449245] Caught SIGTERM, shutting down...
 [1719449245] Warning: File '/opt/nagios/var/perfdata.log' could not be opened - service performance data will not be written to file!
 [1719449245] Successfully shutdown... (PID=16)
+[1720109041] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109041] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109042] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109042] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109043] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109043] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109044] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109044] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109045] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109045] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109046] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109046] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109047] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109047] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109048] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109048] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109049] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109049] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109050] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109050] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109051] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109051] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109053] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109053] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109054] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109054] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109055] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109055] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109056] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109056] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109057] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109057] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109058] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109058] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109059] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109059] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109060] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109060] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109061] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109061] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109062] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109062] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109063] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109063] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109064] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109064] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109065] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109065] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109066] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109066] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109067] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109067] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109068] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109068] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109069] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109069] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109070] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109070] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109071] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109071] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109072] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109072] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109073] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109073] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109074] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109074] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109075] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109075] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109076] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109076] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109077] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109077] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109078] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109078] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109079] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109079] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109080] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109080] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109081] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109081] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109082] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109082] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109272] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109272] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109273] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109273] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109274] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109274] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109275] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109275] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109276] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109276] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109277] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109277] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109278] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109278] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109279] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109279] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109280] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109280] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109281] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109281] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109282] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109282] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109283] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109283] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109284] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109284] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109285] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109285] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109286] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109286] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109287] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109287] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109288] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109288] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109289] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109289] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109290] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109290] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109291] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109291] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109292] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109292] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109293] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109293] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109294] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109294] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109295] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109295] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109296] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109296] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109297] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109297] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109298] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109298] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109299] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109299] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109300] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109300] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109302] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109302] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109303] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109303] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109304] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109304] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109305] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109305] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109306] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109306] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109307] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109307] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109308] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109308] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109309] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109309] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109310] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109310] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109311] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109311] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109312] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109312] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109313] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109313] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109314] Error in configuration file '/opt/nagios/etc/nagios.cfg' - Line 452 (Check result path '/opt/nagios/var/spool/checkresults' is not a valid directory)
+[1720109314] Error: Failed to process config file '/opt/nagios/etc/nagios.cfg'. Aborting
+[1720109423] Nagios 4.5.0 starting... (PID=1)
+[1720109423] Local time is Thu Jul 04 16:10:23 UTC 2024
+[1720109423] LOG VERSION: 2.0
+[1720109423] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109423] Error: Failed to initialize query handler. Aborting
+[1720109425] Nagios 4.5.0 starting... (PID=1)
+[1720109425] Local time is Thu Jul 04 16:10:25 UTC 2024
+[1720109425] LOG VERSION: 2.0
+[1720109425] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109425] Error: Failed to initialize query handler. Aborting
+[1720109426] Nagios 4.5.0 starting... (PID=1)
+[1720109426] Local time is Thu Jul 04 16:10:26 UTC 2024
+[1720109426] LOG VERSION: 2.0
+[1720109426] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109426] Error: Failed to initialize query handler. Aborting
+[1720109427] Nagios 4.5.0 starting... (PID=1)
+[1720109427] Local time is Thu Jul 04 16:10:27 UTC 2024
+[1720109427] LOG VERSION: 2.0
+[1720109427] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109427] Error: Failed to initialize query handler. Aborting
+[1720109429] Nagios 4.5.0 starting... (PID=1)
+[1720109429] Local time is Thu Jul 04 16:10:29 UTC 2024
+[1720109429] LOG VERSION: 2.0
+[1720109429] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109429] Error: Failed to initialize query handler. Aborting
+[1720109431] Nagios 4.5.0 starting... (PID=1)
+[1720109431] Local time is Thu Jul 04 16:10:31 UTC 2024
+[1720109431] LOG VERSION: 2.0
+[1720109431] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109431] Error: Failed to initialize query handler. Aborting
+[1720109435] Nagios 4.5.0 starting... (PID=1)
+[1720109435] Local time is Thu Jul 04 16:10:35 UTC 2024
+[1720109435] LOG VERSION: 2.0
+[1720109435] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109435] Error: Failed to initialize query handler. Aborting
+[1720109442] Nagios 4.5.0 starting... (PID=1)
+[1720109442] Local time is Thu Jul 04 16:10:42 UTC 2024
+[1720109442] LOG VERSION: 2.0
+[1720109442] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109442] Error: Failed to initialize query handler. Aborting
+[1720109456] Nagios 4.5.0 starting... (PID=1)
+[1720109456] Local time is Thu Jul 04 16:10:56 UTC 2024
+[1720109456] LOG VERSION: 2.0
+[1720109456] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109456] Error: Failed to initialize query handler. Aborting
+[1720109483] Nagios 4.5.0 starting... (PID=1)
+[1720109483] Local time is Thu Jul 04 16:11:23 UTC 2024
+[1720109483] LOG VERSION: 2.0
+[1720109483] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109483] Error: Failed to initialize query handler. Aborting
+[1720109535] Nagios 4.5.0 starting... (PID=1)
+[1720109535] Local time is Thu Jul 04 16:12:15 UTC 2024
+[1720109535] LOG VERSION: 2.0
+[1720109535] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109535] Error: Failed to initialize query handler. Aborting
+[1720109598] Nagios 4.5.0 starting... (PID=1)
+[1720109598] Local time is Thu Jul 04 16:13:18 UTC 2024
+[1720109598] LOG VERSION: 2.0
+[1720109598] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109598] Error: Failed to initialize query handler. Aborting
+[1720109638] Nagios 4.5.0 starting... (PID=1)
+[1720109638] Local time is Thu Jul 04 16:13:58 UTC 2024
+[1720109638] LOG VERSION: 2.0
+[1720109638] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109638] Error: Failed to initialize query handler. Aborting
+[1720109639] Nagios 4.5.0 starting... (PID=1)
+[1720109639] Local time is Thu Jul 04 16:13:59 UTC 2024
+[1720109639] LOG VERSION: 2.0
+[1720109639] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109639] Error: Failed to initialize query handler. Aborting
+[1720109640] Nagios 4.5.0 starting... (PID=1)
+[1720109640] Local time is Thu Jul 04 16:14:00 UTC 2024
+[1720109640] LOG VERSION: 2.0
+[1720109640] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109640] Error: Failed to initialize query handler. Aborting
+[1720109641] Nagios 4.5.0 starting... (PID=1)
+[1720109641] Local time is Thu Jul 04 16:14:01 UTC 2024
+[1720109641] LOG VERSION: 2.0
+[1720109641] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109641] Error: Failed to initialize query handler. Aborting
+[1720109643] Nagios 4.5.0 starting... (PID=1)
+[1720109643] Local time is Thu Jul 04 16:14:03 UTC 2024
+[1720109643] LOG VERSION: 2.0
+[1720109643] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109643] Error: Failed to initialize query handler. Aborting
+[1720109646] Nagios 4.5.0 starting... (PID=1)
+[1720109646] Local time is Thu Jul 04 16:14:06 UTC 2024
+[1720109646] LOG VERSION: 2.0
+[1720109646] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109646] Error: Failed to initialize query handler. Aborting
+[1720109650] Nagios 4.5.0 starting... (PID=1)
+[1720109650] Local time is Thu Jul 04 16:14:10 UTC 2024
+[1720109650] LOG VERSION: 2.0
+[1720109650] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109650] Error: Failed to initialize query handler. Aborting
+[1720109657] Nagios 4.5.0 starting... (PID=1)
+[1720109657] Local time is Thu Jul 04 16:14:17 UTC 2024
+[1720109657] LOG VERSION: 2.0
+[1720109657] qh: Failed to init socket '/opt/nagios/var/rw/nagios.qh'. bind() failed: No such file or directory
+[1720109657] Error: Failed to initialize query handler. Aborting
