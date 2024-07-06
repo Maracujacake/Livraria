@@ -7,7 +7,8 @@ services:
     env_file:
       - .env
     volumes:
-    - './db/MySQL:/tmp/db'
+      - './db/MySQL:/tmp/db'
+      - ./data:/var/lib/mysql
     command: mysqld --init-file="/tmp/db/create.sql" --max-connections=500
   tomcat:
     image: tomcat:9.0.75
@@ -20,3 +21,4 @@ services:
       - ./target/Livraria.war:/usr/local/tomcat/webapps/Livraria.war
     depends_on:
       - mysql
+      
