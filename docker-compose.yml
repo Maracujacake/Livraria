@@ -10,6 +10,7 @@ services:
       - './db/MySQL:/tmp/db'
       - ./data:/var/lib/mysql
     command: mysqld --init-file="/tmp/db/create.sql" --max-connections=500
+  
   tomcat:
     image: tomcat:9.0.75
     container_name: tomcat
@@ -21,4 +22,14 @@ services:
       - ./target/Livraria.war:/usr/local/tomcat/webapps/Livraria.war
     depends_on:
       - mysql
-      
+  
+  monitor:
+    build: ./nagios
+    container_name: nagios 
+    ports:
+      - "80:80"
+    volumes:
+      - './nagios/var:/var/nagios'
+    depends_on:
+      - tomcat
+      - mysql
