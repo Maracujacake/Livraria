@@ -1,13 +1,11 @@
-# Use a imagem base do MySQL
-FROM mysql:5.6
+# Use a imagem oficial do dockerhub do MySQL
+FROM mysql:5.6.36
 
-# Credenciais bd
-ENV MYSQL_DATABASE Livraria
-ENV MYSQL_USER chris
-ENV MYSQL_PASSWORD 1234
+# Definir credenciais e variaveis de ambiente
+ENV MYSQL_ROOT_PASSWORD=root_password
 
-# Copia o arquivo do banco para o docker
-COPY /home/chris/AreaDeTrabalho/Webinho/Livraria/db/MySQL/create.sql /docker-entrypoint-initdb.d/
+# Copia o arquivo de inicialização para o container
+COPY  create.sql /docker-entrypoint-initdb.d/
 
-# Porta padrão de comunicação do sql
-EXPOSE 3306
+# Comando de inicialização
+CMD ["mysqld", "--max-connections=500"]

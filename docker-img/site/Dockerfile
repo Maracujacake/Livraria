@@ -1,16 +1,12 @@
 # Use a imagem base do Tomcat
-FROM tomcat:7.0-jdk8
+FROM tomcat:9.0.75
 
 LABEL maintainer="christianpolli@estudante.ufscar.br"
 
-ADD catalina.sh /usr/local/tomcat/bin/
-ADD .keystore /usr/local/tomcat/conf/
-ADD server.xml /usr/local/tomcat/conf/
-ADD context.xml /usr/local/tomcat/conf/
 # Caminho para o arquivo .war
-ADD ../../target/Livraria.war /usr/local/tomcat/webapps/
+ADD Livraria.war /usr/local/tomcat/webapps/
 
-# Porta padrão de comunicação do Tomcat
+# Porta padrão de comunicação do Tomcat-
 EXPOSE 8080
 
 RUN chmod a+x /usr/local/tomcat/bin/catalina.sh
