@@ -1,7 +1,7 @@
 ## 1º Trabalho Prático de DevOps - 2024/1 ##
 
 ## Integrantes ##
-Este trabalho foi desenvolvido pelas alunos:
+Este trabalho foi desenvolvido pelos alunos:
 - Christian Coronel da Silva Polli, RA  798083
 - Lara Santiago Rodrigues, RA 769701
 
